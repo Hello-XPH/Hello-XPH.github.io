@@ -1,0 +1,3 @@
+[remote "origin"]
+	url = https://你的github用户名:Token@github.com/你的github用户/仓库名
+	fetch = +refs/heads/*:refs/remotes/origin/*
