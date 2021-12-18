@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
     <title>王某某</title>
-    <updated>2021-12-18T00:28:58.190Z</updated>
+    <updated>2021-12-18T00:34:09.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
@@ -12,15 +12,15 @@
     <rights>All rights reserved 2021, 王某某</rights>
     <entry>
         <title type="html"><![CDATA[Windows本地文件夹同步软件————FreeFileSync]]></title>
-        <id>http://localhost:4000/post/windows-ben-di-wen-jian-jia-tong-bu-ruan-jian-freefilesync/</id>
-        <link href="http://localhost:4000/post/windows-ben-di-wen-jian-jia-tong-bu-ruan-jian-freefilesync/">
+        <id>http://localhost:4000/post/windows-freefilesync/</id>
+        <link href="http://localhost:4000/post/windows-freefilesync/">
         </link>
         <updated>2021-12-15T12:23:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[背景图片自适应浏览器高度和宽度]]></title>
-        <id>http://localhost:4000/post/shi-yong-lessh1greatercsslessh1greaterzi-gua-ying-liu-lan-qi-gao-du-he-kuan-du/</id>
-        <link href="http://localhost:4000/post/shi-yong-lessh1greatercsslessh1greaterzi-gua-ying-liu-lan-qi-gao-du-he-kuan-du/">
+        <id>http://localhost:4000/post/Background-adaptive-browser/</id>
+        <link href="http://localhost:4000/post/Background-adaptive-browser/">
         </link>
         <updated>2021-12-15T06:39:18.000Z</updated>
     </entry>
