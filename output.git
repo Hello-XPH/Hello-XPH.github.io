@@ -1,0 +1,3 @@
+[remote "origin"]
+	url = https://Hello-XPH:Token@github.com/Hello-XPH/Hello-XPH.github.io
+	fetch = +refs/heads/*:refs/remotes/origin/*
